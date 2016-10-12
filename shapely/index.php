@@ -10,7 +10,7 @@
  * @link https://codex.wordpress.org/Template_Hierarchy
  *
  * @package Shapely
- hello Daniel
+ test number 2
  */
 
 get_header(); ?>
